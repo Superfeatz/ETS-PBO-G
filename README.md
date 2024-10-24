@@ -2,7 +2,7 @@
 # NRP : 5025221030
 # Kelas PBO G
 
-#4. Food Order System
+# 4. Food Order System
 
 Sistem pemesanan makanan sederhana berbasis console yang memungkinkan pengguna untuk melihat menu, melakukan pemesanan, dan melakukan pembayaran.
 
