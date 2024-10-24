@@ -1,6 +1,6 @@
-Nama : Muhammad Hafidz Harridil Mahali
-NRP : 5025221030
-Kelas PBO G
+# Nama : Muhammad Hafidz Harridil Mahali
+# NRP : 5025221030
+# Kelas PBO G
 
 # Food Order System
 
