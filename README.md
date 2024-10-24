@@ -2,11 +2,11 @@
 # NRP : 5025221030
 # Kelas PBO G
 
-# 4. Food Order System
+# 4. FoodOrder System
 
 Sistem pemesanan makanan sederhana berbasis console yang memungkinkan pengguna untuk melihat menu, melakukan pemesanan, dan melakukan pembayaran.
 
-## Struktur Proyek
+## Struktur Program
 
 ```
 src/
@@ -24,11 +24,6 @@ src/
 - Perhitungan total pesanan otomatis
 - Sistem pembayaran dengan perhitungan kembalian
 - Pencetakan struk pembelian
-
-## Persyaratan Sistem
-
-- Java Development Kit (JDK) 8 atau lebih tinggi
-- Java Compiler (javac)
 
 ## Cara Menjalankan Program
 
